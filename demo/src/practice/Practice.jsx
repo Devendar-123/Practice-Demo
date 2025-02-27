@@ -35,6 +35,7 @@ const Practice = () => {
 
   return (
     <div>
+      <h1>USER INFORMATION</h1>
         <table>
           <thead>
             <tr>

@@ -13,3 +13,10 @@ td,th{
     border: 2px solid blue;
     padding: 10px;
 }
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+}
