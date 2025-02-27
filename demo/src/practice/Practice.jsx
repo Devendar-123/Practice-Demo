@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import "./Practice.css"
 const data = "https://jsonplaceholder.typicode.com/posts"
 const Practice = () => {
     const [details , setDetails] = useState([]);
